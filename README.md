@@ -17,4 +17,4 @@ Uses LLM here DeepSeek for parsing.
 ```bash
 ./mvnw spring-boot:run
 ```
-##MADE AS ASSIGNMENT FOR SIMPLIFY MONEY APP INTERNSHIP
+##MADE AS ASSIGNMENT FOR SIMPLIFY MONEY APP INTERNSHIP.
